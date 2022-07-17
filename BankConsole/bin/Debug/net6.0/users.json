@@ -1,0 +1,18 @@
+[
+  {
+    "TaxRegime": "o",
+    "ID": 1,
+    "Name": "Josias Lona",
+    "Email": "josias.lona@gmail.com",
+    "Balance": 2000.22,
+    "RegisterDate": "2022-07-15T14:54:55.1569036-05:00"
+  },
+  {
+    "Department": "TI",
+    "ID": 2,
+    "Name": "Orlando Hernandez",
+    "Email": "orlando.hdz@gmail.com",
+    "Balance": 2200.0,
+    "RegisterDate": "2022-07-17T15:10:31.3992569-05:00"
+  }
+]
