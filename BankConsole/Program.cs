@@ -13,7 +13,7 @@ else
 void ShowMenu()
 {
     Console.Clear();
-    Console.WriteLine("Seleccione una opción");
+    Console.WriteLine("Bienvenido, seleccione una opción");
     Console.WriteLine("1. Crear un Usuario nuevo.");
     Console.WriteLine("2. Eliminar un usuario existente.");
     Console.WriteLine("3. Salir");
